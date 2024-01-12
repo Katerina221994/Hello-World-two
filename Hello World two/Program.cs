@@ -12,6 +12,8 @@ namespace Hello_World_two
             Write("World");
             Write("!!!");
 
+            WriteLine("\npress enter to exit");
+
             ReadLine();
         }
     }
