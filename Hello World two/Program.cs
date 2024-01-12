@@ -12,7 +12,7 @@ namespace Hello_World_two
             Write("World");
             Write("!!!");
 
-            WriteLine("\npress any button to exit");
+            WriteLine("\npress enter to exit");
 
             ReadLine();
         }
